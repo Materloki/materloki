@@ -7,7 +7,7 @@
 ### 🔭 I’m currently working on :
 - Computer Vision
 - Machine Learning
-- Eletronics
+- Electronics
 
 ## GitHub Stats
 
