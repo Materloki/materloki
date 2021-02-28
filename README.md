@@ -19,7 +19,7 @@
 </a>
 
 ### 📫 Social:
-  - [![Medium: Rodrigo](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rodrigoestevam99)
+[![Medium: Rodrigo](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rodrigoestevam99)
 [![Linkedin: rodrigoestevam](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-estevam-373414147/)](https://www.linkedin.com/in/rodrigo-estevam-373414147/)
 [![GitHub Materloki](https://img.shields.io/github/followers/materloki?label=follow&style=social)](https://github.com/materloki)
 
